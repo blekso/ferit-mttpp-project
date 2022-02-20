@@ -48,7 +48,7 @@ Project for testing using [Jest](https://jestjs.io) and [Playwright](https://pla
 5. **valid_data_login_test** - Test case which indicates if user can login by entering valid login data
 6. **invalid_login_data_test** - Test case which indicates if user can login by entering invalid login data 
 
-**Rezultati testiranja:**
+**Test results:**
 After running $npm run test, console will log test case results by showing 
 
 ![test-run-example.png](test-run-example.png)
