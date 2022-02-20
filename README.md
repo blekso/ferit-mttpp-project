@@ -1,12 +1,10 @@
-# Testing project [Virtuelleshaus.at](https://www.virtuelleshaus.at/)
-
+# Testing project for [Virtuelleshaus.at](https://www.virtuelleshaus.at/)
 Project for testing Virtuelleshaus website for FERIT course "Metode i tehnike testiranja programske podrške"
 
 ### Project description
-
 Project for testing using [Jest](https://jestjs.io) and [Playwright](https://playwright.dev)
-### Instructions to and download the project
 
+### Instructions to and download the project
 * download and install [Visual Studio Code](https://code.visualstudio.com) or any other preferred code editor
 * install [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/downloads)
   1. open terminal 
@@ -14,12 +12,12 @@ Project for testing using [Jest](https://jestjs.io) and [Playwright](https://pla
   3. if there is any output then node (and npm) is already installed and this step can be skipped
   4. write $git -v
   5. if there is any output then git is already installed and this step can be skipped
-  * if git isnt installed
+  6 if git isnt installed
     1. download [Git](https://git-scm.com/downloads)
     2. open .exe or .pkg file and install it by its default settings
     3. open terminal
     4. write $git -v and it should write git version
-  * if node isnt installed
+  7 if node isnt installed
     1. download [Node.js](https://nodejs.org/en/)
     2. open .exe or .pkg file and install it by its default settings
     3. open terminal
@@ -51,11 +49,9 @@ Project for testing using [Jest](https://jestjs.io) and [Playwright](https://pla
 6. **invalid_login_data_test** - Test case which indicates if user can login by entering invalid login data 
 
 **Rezultati testiranja:**
-
 After running $npm run test, console will log test case results by showing 
 
 ![test-run-example.png](test-run-example.png)
 
 ### Author
-
 Mihael Istvan (DRC 1.g)
