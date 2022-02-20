@@ -1,27 +1,29 @@
 # Testing project [Virtuelleshaus.at](https://www.virtuelleshaus.at/)
 
 Project for testing Virtuelleshaus website for FERIT course "Metode i tehnike testiranja programske podrške"
-### instructions to and download the project
+
+### Project description
+
+Project for testing using [Jest](https://jestjs.io) and [Playwright](https://playwright.dev)
+### Instructions to and download the project
 
 * download and install [Visual Studio Code](https://code.visualstudio.com) or any other preferred code editor
-* install [Node.js](https://nodejs.org/en/) 
+* install [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/downloads)
   1. open terminal 
   2. write $node -v and $npm -v
   3. if there is any output then node (and npm) is already installed and this step can be skipped
   4. write $git -v
   5. if there is any output then git is already installed and this step can be skipped
-
-* if git isnt installed
-  1. download [Git](https://git-scm.com/downloads)
-  2. open .exe or .pkg file and install it by its default settings
-  3. open terminal
-  4. write $git -v and it should write git version
-
-* if node isnt installed
-  1. download [Node.js](https://nodejs.org/en/)
-  2. open .exe or .pkg file and install it by its default settings
-  3. open terminal
-  4. write $node -v and it should write node version
+  * if git isnt installed
+    1. download [Git](https://git-scm.com/downloads)
+    2. open .exe or .pkg file and install it by its default settings
+    3. open terminal
+    4. write $git -v and it should write git version
+  * if node isnt installed
+    1. download [Node.js](https://nodejs.org/en/)
+    2. open .exe or .pkg file and install it by its default settings
+    3. open terminal
+    4. write $node -v and it should write node version
 
 * clone [ferit-mttpp-project](https://github.com/blekso/ferit-mttpp-project)
   1. copy ssh link for this project
@@ -29,7 +31,7 @@ Project for testing Virtuelleshaus website for FERIT course "Metode i tehnike te
   3. write $git clone git@github.com:blekso/ferit-mttpp-project.git
   4. open project in preferred code editor
 
-### instructions to and run project tests
+### Instructions to and run project tests
 * install packages
   1. open terminal
   2. use $cd to enter cloned object directory
