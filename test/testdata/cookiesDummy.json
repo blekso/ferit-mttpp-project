@@ -1,0 +1,54 @@
+[
+    {
+        "domain": "localhost",
+        "expirationDate": 1616511758.290844,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "_virh_functional",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "true"
+    },
+    {
+        "domain": "localhost",
+        "expirationDate": 1616511758.291296,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "_virh_analytics",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "true"
+    },
+    {
+        "domain": "localhost",
+        "expirationDate": 1616511758.291622,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "_virh_media",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "true"
+    },
+    {
+        "domain": "localhost",
+        "expirationDate": 1614524558.293748,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "_virh_gdpr",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "false"
+    }
+]

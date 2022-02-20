@@ -1,0 +1,9 @@
+stages:
+  - test
+
+tests:
+  stage: test
+  image: ianwalter/playwright:v1.1.1
+  script:
+    - npm install # This should install playwright
+    - npm run test
